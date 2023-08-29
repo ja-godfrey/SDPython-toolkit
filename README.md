@@ -1,4 +1,4 @@
-# Data Cleaning & Preprocessing Toolkit 🛠️
+# SDPython's Data Cleaning & Preprocessing Toolkit 🛠️
 
 <p align="center">
   <img width="460" height="300" src="https://your-image-url-here.com/logo.png">
@@ -81,9 +81,9 @@ After activating the virtual environment, navigate to the directory where `requi
 
 ```bash
 pip install -r requirements.txt
+```
 
 This will install all the required packages.
-
 ---
 
 ## 📦 Modules
