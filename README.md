@@ -35,7 +35,7 @@
 
 This Data Cleaning & Preprocessing Toolkit is a comprehensive Python library that makes the data wrangling phase of your Data Science projects as smooth as butter. With a focus on code reusability and ease of use, this toolkit is the perfect addition to your Data Science arsenal.
 
-> "In God we trust. All others must bring data." - W. Edwards Deming.
+> "In God we trust. All others must bring data." - W. Edwards Deming (Ostensibly).
 
 ---
 
@@ -57,22 +57,22 @@ This Data Cleaning & Preprocessing Toolkit is a comprehensive Python library tha
 1. Open your terminal and run:
 
    ```bash
-   python3 -m venv myenv
+   python3 -m venv SDPython
 
-This will create a new Python virtual environment named `myenv`.
+This will create a new Python virtual environment named `SDPython`.
 
 2. Activate the virtual environment:
 
    - **macOS and Linux:**
 
      ```bash
-     source myenv/bin/activate
+     source SDPython/bin/activate
      ```
 
    - **Windows:**
 
      ```bash
-     .\myenv\Scripts\Activate
+     .\SDPython\Scripts\Activate
      ```
 
 ### Installing Dependencies
@@ -121,8 +121,8 @@ This project is licensed under the MIT License - see the [`LICENSE.md`](./LICENS
 
 ## 📞 Contact
 
-- **Your Name** - [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
-- **Email** - youremail@domain.com
+- **Website** - [jasongodfrey.info](jasongodfrey.info)
+- **Email** - jason.godfrey@accelerate.com
 
 > If you like this project, please give it a ⭐ [on GitHub](https://github.com/yourusername/projectname/)! 😊
 
