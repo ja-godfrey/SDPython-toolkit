@@ -1,15 +1,16 @@
 # SDPython's Data Cleaning & Preprocessing Toolkit 🛠️
 
 <p align="center">
-  <img width="460" height="300" src="SDPython.jpg">
+  <img width="256" height="384" src="SDPython.jpg">
 </p>
 
 ---
 
 <div align="center">
 
-[![Build Status](https://travis-ci.org/ja-godfrey/SDPython-toolkit.svg?branch=master)](https://travis-ci.org/ja-godfrey/SDPython-toolkit)
-[![Coverage Status](https://coveralls.io/repos/github/ja-godfrey/SDPython-toolkit/badge.svg?branch=master)](https://coveralls.io/github/ja-godfrey/SDPython-toolkit?branch=master)
+![Lines of Code](https://img.shields.io/tokei/lines/github/ja-godfrey/SDPython-toolkit)
+![Maintenance](https://img.shields.io/badge/Maintenance-Once%20a%20week%20-blue)
+![Works on My Machine](https://img.shields.io/badge/Works%20on-My%20machine-green)
 [![GitHub stars](https://img.shields.io/github/stars/ja-godfrey/SDPython-toolkit.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ja-godfrey/SDPython-toolkit/stargazers/)
 
 </div>
