@@ -8,9 +8,9 @@
 
 <div align="center">
 
-[![Build Status](https://travis-ci.org/yourusername/projectname.svg?branch=master)](https://travis-ci.org/yourusername/projectname)
-[![Coverage Status](https://coveralls.io/repos/github/yourusername/projectname/badge.svg?branch=master)](https://coveralls.io/github/yourusername/projectname?branch=master)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/projectname.svg?style=social&label=Star&maxAge=2592000)](https://github.com/yourusername/projectname/stargazers/)
+[![Build Status](https://travis-ci.org/ja-godfrey/SDPython-toolkit.svg?branch=master)](https://travis-ci.org/ja-godfrey/SDPython-toolkit)
+[![Coverage Status](https://coveralls.io/repos/github/ja-godfrey/SDPython-toolkit/badge.svg?branch=master)](https://coveralls.io/github/ja-godfrey/SDPython-toolkit?branch=master)
+[![GitHub stars](https://img.shields.io/github/stars/ja-godfrey/SDPython-toolkit.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ja-godfrey/SDPython-toolkit/stargazers/)
 
 </div>
 
@@ -124,5 +124,5 @@ This project is licensed under the MIT License - see the [`LICENSE.md`](./LICENS
 - **Website** - [jasongodfrey.info](jasongodfrey.info)
 - **Email** - jason.godfrey@accelerate.com
 
-> If you like this project, please give it a ⭐ [on GitHub](https://github.com/yourusername/projectname/)! 😊
+> If you like this project, please give it a ⭐ [on GitHub](https://github.com/ja-godfrey/SDPython-toolkit/)! 😊
 

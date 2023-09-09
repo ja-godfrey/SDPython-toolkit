@@ -15,8 +15,12 @@ This toolkit provides a set of custom Python functions to simplify and standardi
 
 ### Handling Missing Values
 
-- `impute_missing_numeric(data, column, strategy='mean')`: Customized imputation strategies for numeric columns.
-- `drop_missing(data, threshold=0.7)`: Drops columns with missing values above a certain threshold.
+This Python module provides a collection of utility functions to handle missing values in a Pandas DataFrame. The aim is to make the imputation and removal of missing values as simple and consistent as possible.
+
+- `impute_missing_numeric(data, column, strategy='mean')`: Imputes missing values in a numeric column based on a specified strategy. Available strategies are 'mean', 'median', 'mode', and 'constant'.
+- `impute_missing_categorical(data, column, strategy='mode')`: Imputes missing values in a categorical column based on a specified strategy. Available strategies are 'mode' and 'constant'.
+- `drop_missing(data, threshold=0.7)`: Drops columns with missing values that exceed a given threshold.
+- `drop_rows_with_missing(data, column)`: Drops rows with missing values in a specified column.
 
 ### Outlier Detection & Handling
 
