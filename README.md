@@ -1,7 +1,7 @@
 # SDPython's Data Cleaning & Preprocessing Toolkit 🛠️
 
 <p align="center">
-  <img width="256" height="384" src="SDPython.jpg">
+  <img width="256" height="256" src="SDPython2.png">
 </p>
 
 ---
@@ -9,7 +9,7 @@
 <div align="center">
 
 ![Lines of Code](https://img.shields.io/tokei/lines/github/ja-godfrey/SDPython-toolkit)
-![Maintenance](https://img.shields.io/badge/Maintenance-Once%20a%20week%20-blue)
+![Maintenance](https://img.shields.io/badge/Maintenance-🤷-blue)
 ![Works on My Machine](https://img.shields.io/badge/Works%20on-My%20machine-green)
 [![GitHub stars](https://img.shields.io/github/stars/ja-godfrey/SDPython-toolkit.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ja-godfrey/SDPython-toolkit/stargazers/)
 
