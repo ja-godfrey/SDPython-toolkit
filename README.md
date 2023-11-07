@@ -34,7 +34,7 @@
 
 ## 🌟 Overview
 
-This Data Cleaning & Preprocessing Toolkit is a comprehensive Python library that makes the data wrangling phase of your Data Science projects as smooth as butter. With a focus on code reusability and ease of use, this toolkit is the perfect addition to your Data Science arsenal.
+This Data Cleaning & Preprocessing Toolkit is a Python library that makes the data wrangling phase of your Data Science projects as smooth as butter. It is not meant to replace your favorite libraries (pandas, nltk); it just extends their use with a few functions that I found myself writing over and over. With a focus on code reusability and ease of use, this toolkit is the perfect addition to your Data Science arsenal.
 
 > "In God we trust. All others must bring data." - W. Edwards Deming (Ostensibly).
 
